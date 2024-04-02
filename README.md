@@ -12,8 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-📩 &nbsp; ***Feel free to contact me. I am always here ...***
-
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/walbercardoso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walbercardoso/)  
 <!-- [![HitCount](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh.svg)](http://hits.dwyl.com/Ahmad-Sawalqeh/Ahmad-Sawalqeh) -->
 
@@ -36,7 +34,6 @@ I have a proven track record of budget planning and control, expense reduction, 
 💬 **Languages and Tools Icons**:
 <p>
 <img align="left" style="margin-right: 7px" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-<img align="left" style="margin-right: 7px" alt="GitHub" width="26px" src="https://cdn.worldvectorlogo.com/logos/github-1.svg" />
 <img align="left" style="margin-right: 7px" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
 <img align="left" style="margin-right: 7px" alt="HTML5" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
 <img align="left" style="margin-right: 7px" alt="CSS3" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
