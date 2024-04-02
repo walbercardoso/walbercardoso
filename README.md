@@ -32,33 +32,29 @@ I have a proven track record of budget planning and control, expense reduction, 
 💬 **Deployment platforms** such as `github pages`, `Herkou` and `Netlify`.
 
 💬 **Languages and Tools Icons**:
-<p>
-<img align="left" style="margin-right: 7px" alt="Git" width="26px" src="https://cdn.worldvectorlogo.com/logos/git-icon.svg" />
-<img align="left" style="margin-right: 7px" alt="Visual Studio Code" width="26px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" />
-<img align="left" style="margin-right: 7px" alt="HTML5" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/html5.svg" />
-<img align="left" style="margin-right: 7px" alt="CSS3" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/css-5.svg" />
-<img align="left" style="margin-right: 7px" alt="FontAwesome" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/fontawesome-1.svg" />
-<img align="left" style="margin-right: 7px" alt="JavaScript" width="26px" src="https://cdn.worldvectorlogo.com/logos/javascript.svg" />
-<img align="left" style="margin-right: 7px" alt="JQuery" width="26px" height="26px" src="https://cdn3.iconfinder.com/data/icons/popular-services-brands/512/jquery-512.png" />
-<img align="left" style="margin-right: 7px" alt="Bootstrap" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/bootstrap-4.svg" />
-<img align="left" style="margin-right: 7px" alt="JSON" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/json.svg" />
-<img align="left" style="margin-right: 7px" alt="React.js" width="26px" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" />
-<img align="left" style="margin-right: 7px" alt="Redux" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/redux.svg" />
-<img align="left" style="margin-right: 7px" alt="PostgreSQL" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" />
-<img align="left" style="margin-right: 7px" alt="MySQL" width="30px" src="https://cdn.worldvectorlogo.com/logos/mysql-7.svg" />
-<img align="left" style="margin-right: 7px" alt="MongoDB" width="30px" height="26px" src="https://laymanclass.com/wp-content/uploads/2019/08/mongodb2.jpeg" />
-<img align="left" style="margin-right: 7px" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" style="margin-right: 7px" alt="Jest" width="26px" height="26px" src="https://cdn.worldvectorlogo.com/logos/jest-0.svg" />
-<img align="left" style="margin-right: 7px" alt="NPM" width="26px" height="26px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzJ86XD-sb66p_KPgCh4eHla987DCG1oxYSjOFinYu8SakX5I&s" />
-<br>
-<br>
-<img align="left" style="margin-right: 7px" alt="SwaggerHub" width="26px" height="26px" src="https://miro.medium.com/max/720/0*ouOwqU23IiOAJf5v.jpg" />
-<img align="left" style="margin-right: 7px" alt="Github Pages" width="26px" height="26px" src="https://techcrunch.com/wp-content/uploads/2010/07/github-logo.png?w=512" />
-<img align="left" style="margin-right: 7px" alt="Heroku" width="26px" height="26px" src="https://www.drupal.org/files/issues/2019-12-27/heroku_logo.png" />
-<img align="left" style="margin-right: 7px" alt="Netlify" width="26px" height="26px" src="https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png" />
-</p>
-<br>
-<br>
+![Git](https://img.shields.io/badge/-Git-000000?style=flat&logo=git&logoColor=F05032&labelColor=ffffff)
+![GitHub](https://img.shields.io/badge/-GitHub-000000?style=flat&logo=github&logoColor=000000&labelColor=ffffff)
+![Visual Studio Code](https://img.shields.io/badge/-VSCode-000000?style=flat&logo=visual-studio-code&labelColor=007ACC)
+![HTML5](https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff&labelColor=E34F26)
+![CSS3](https://img.shields.io/badge/-CSS3-000000?style=flat&logo=css3&logoColor=ffffff&labelColor=1572B6) 
+![Sass](https://img.shields.io/badge/-Sass-000000?style=flat&logo=sass&logoColor=ffffff&labelColor=%23CC6699)
+![Font Awesome](https://img.shields.io/badge/-font%20awesome-000000?style=flat&logo=font-awesome&logoColor=339AF0&labelColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat&logo=javascript)
+![jQuery](https://img.shields.io/badge/-jQuery-000000?style=flat&logo=jQuery&logoColor=0769AD&labelColor=ffffff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-000000?style=flat&logo=bootstrap&logoColor=ffffff&labelColor=563D7C)
+![JSON](https://img.shields.io/badge/-JSON-000000?style=flat&logo=JSON&logoColor=000000&labelColor=ffffff)
+![React](https://img.shields.io/badge/-React-000000?style=flat&logo=react)
+![Redux](https://img.shields.io/badge/-Redux-000000?style=flat&logo=redux&logoColor=764ABC&labelColor=ffffff)
+![Nodejs](https://img.shields.io/badge/-Nodejs-000000?style=flat&logo=Node.js)
+![NPM](https://img.shields.io/badge/-npm-000000?style=flat&logo=npm&labelColor=ffffff)
+![socket.io](https://img.shields.io/badge/-Socket.Io-000000?style=flat&logo=socket.io&logoColor=000000&labelColor=ffffff)
+![Jest](https://img.shields.io/badge/-Jest-000000?style=flat&logo=Jest&logoColor=C21325&labelColor=ffffff)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat&logo=postgresql&logoColor=ffffff&labelColor=336791)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat&logo=mysql&labelColor=ffffff)
+![MongoDB](https://img.shields.io/badge/-MongoDB-000000?style=flat&logo=mongodb&labelColor=ffffff)
+![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
+![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
+![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <!-- <p>
 <img align="left" alt="Ahmad-Sawalqeh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
