@@ -55,15 +55,11 @@ I have a proven track record of budget planning and control, expense reduction, 
 ![Swagger](https://img.shields.io/badge/-Swagger-000000?style=flat&logo=swagger)
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!-- <p>
-<img align="left" alt="Ahmad-Sawalqeh's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Ahmad-Sawalqeh&show_icons=true&hide_border=true" />
-</p> -->
-
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=Ahmad-Sawalqeh)](https://github.com/Ahmad-Sawalqeh/github-contribution-stats/)
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/walbercardoso)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/walbercardoso/)  
+
+
+[<img src='https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg)' alt='github' height='40'>](https://github.com/walbercardoso)  [<img src='[https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)' alt='linkedin' height='40'>](https://www.linkedin.com/in/walbercardoso/)  
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
