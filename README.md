@@ -56,11 +56,6 @@ I have a proven track record of budget planning and control, expense reduction, 
 ![ESlint](https://img.shields.io/badge/-ESlint-000000?style=flat&logo=ESlint&labelColor=4B32C3)
 ![Windows](https://img.shields.io/badge/-Windows-000000?style=flat&logo=windows&logoColor=ffffff&labelColor=0078D6)
 
-
- **Social**:
-![Linkedin](https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg)
-
-
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=walbercardoso)](https://github.com/ryo-ma/github-profile-trophy)
